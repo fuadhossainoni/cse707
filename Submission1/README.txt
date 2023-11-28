@@ -5,13 +5,13 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+IoT-based Secure Data Transmission Prediction using Deep Learning Model in Cloud Computing
 
 Link to the paper:
-https://ieeexplore......
+https://ijritcc.org/index.php/ijritcc/article/view/6308/5756
 
 Group Number:
-0
+9
 
 Individual Submitter:
-12345678 Name A
+22173002 Fuad Hossain Oni
