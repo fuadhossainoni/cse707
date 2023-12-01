@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/Dc46sTlcjYI?si=QZW5auD-6sYcqhOy
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1tNljrIKlFOwDmgJ3DhM4YCMhJcd5qqqu/edit?usp=sharing&ouid=117661580495237845527&rtpof=true&sd=true
 
 Paper title:
 IoT-based Secure Data Transmission Prediction using Deep Learning Model in Cloud Computing
