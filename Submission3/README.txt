@@ -5,10 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-Robust decentralised proof-of-position algorithms for smart city applications
-
-Link to the paper:
-https://arxiv.org/pdf/2304.13543.pdf
+Distributed Ledger Technologies for Smart Systems: Bridging the Gap between Efficiency and Security
 
 Group Number:
 9
