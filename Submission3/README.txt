@@ -1,14 +1,19 @@
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/2748772121bmtkdzfddmtn#e69719
+
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtube.com/
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/
 
-Paper title:
-Distributed Ledger Technologies for Smart Systems: Bridging the Gap between Efficiency and Security
+Project title:
+A Differential Privacy Based Approach for Detecting Eye Diseases with Deep Learning Frameworks
 
 Group Number:
-9
+25
 
-Individual Submitter:
-22173002 Fuad Hossain Oni
+Group Members:
+23266003	Sumit Howlader Dipro
+21266013	Moumita Khandaker
+22173002	Fuad Hossain Oni
