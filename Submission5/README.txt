@@ -6,7 +6,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://www.canva.com/design/DAF24xqL4zU/FCWD49SnEyZ_pbgXUnxCIg/edit
 
 Project title:
 A Differential Privacy Based Approach for Detecting Eye Diseases with Deep Learning Frameworks
